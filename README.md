@@ -2,7 +2,7 @@
 A simulated model which demonstrates the working of the TCP/IP Networking Model. This project shows proper working of the all layers:
 
 
-1. Physical Layer: The physical layer is responsible for sending and receiving packets from one physical interface to others.
+1.Physical Layer: The physical layer is responsible for sending and receiving packets from one physical interface to others.
 
 
 
